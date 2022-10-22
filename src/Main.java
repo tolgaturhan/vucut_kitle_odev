@@ -17,7 +17,7 @@ public class Main {
                 sonuc = kilo / (boy * boy);
                 double D = sonuc;
                 float sonucf = (float) D;
-                System.out.println("Vücut Kitle Endeksiniz: " + sonucf);
+                System.out.println("Vücut Kitle Indeksiniz: " + sonucf);
             } else {
                 System.out.println("Bu Alana Yalnızca Sayı Girebilirsiniz.!");
             }
